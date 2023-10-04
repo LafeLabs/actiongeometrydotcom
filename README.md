@@ -1,6 +1,6 @@
 # ACTION GEOMETRY!
 
-TRASH MAGIC!
+SELF REPLICATING GEOMETRY IN TRASH!
 
 ![](https://raw.githubusercontent.com/LafeLabs/actiongeometrydotcom/main/trashmagic/shapeset.png)
 
