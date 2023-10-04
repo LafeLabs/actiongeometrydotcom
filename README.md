@@ -1,3 +1,18 @@
+# ACTION GEOMETRY!
+
+TRASH MAGIC!
+
+![](https://raw.githubusercontent.com/LafeLabs/actiongeometrydotcom/main/trashmagic/shapeset.png)
+
+![](https://raw.githubusercontent.com/LafeLabs/actiongeometrydotcom/main/trashmagic/sixfoldset.png)
+
+![](https://raw.githubusercontent.com/LafeLabs/actiongeometrydotcom/main/trashmagic/goldenset.png)
+
+![](https://raw.githubusercontent.com/LafeLabs/actiongeometrydotcom/main/trashmagic/squareset.png)
+
+
+
+
 # [Trash Magic Squares](https://github.com/lafelabs/squares)
 
 ## Squares: As Above, so below.
