@@ -2,8 +2,10 @@
 
 SELF REPLICATING GEOMETRY IN TRASH!
 
-![](https://raw.githubusercontent.com/LafeLabs/actiongeometrydotcom/main/trashmagic/replicatorset.png)
 
+![](https://raw.githubusercontent.com/LafeLabs/actiongeometrydotcom/main/trashmagic/qrcodeset.png)
+
+![](https://raw.githubusercontent.com/LafeLabs/actiongeometrydotcom/main/trashmagic/replicatorset.png)
 
 ![](https://raw.githubusercontent.com/LafeLabs/actiongeometrydotcom/main/trashmagic/shapeset.png)
 
